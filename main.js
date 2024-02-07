@@ -12,7 +12,7 @@ import {
 let signUp = document.getElementById("btn");
 let name = document.getElementById("name");
 const firebaseConfig = {
-  apiKey: "AIzaSyDxUp1BeMCUNG6V-FQd6v64qT6aT8PM_38",
+  apiKey: "YOUR_API_KEY",
   authDomain: "logingwithjs.firebaseapp.com",
   databaseURL: "https://logingwithjs-default-rtdb.firebaseio.com",
   projectId: "logingwithjs",
